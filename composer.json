@@ -1,6 +1,7 @@
 {
     "name": "dodysat/laramq",
     "description": "Simple integration laravel with rabbitmq",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
