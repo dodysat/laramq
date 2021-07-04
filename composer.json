@@ -1,0 +1,19 @@
+{
+    "name": "dodysat/laramq",
+    "description": "Simple integration laravel with rabbitmq",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dodysat\\Laramq\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dody Satria",
+            "email": "dody.satria13@gmail.com"
+        }
+    ],
+    "require": {
+        "php-amqplib/php-amqplib": "^3.0"
+    }
+}
